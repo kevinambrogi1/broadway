@@ -1,0 +1,39 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.header {
+     background-color: #333333;
+     list-style-type:none;
+            }
+
+.header ul li {
+    display:inline;
+   }
+
+.nav {
+    margin: 0;
+      padding: 20px 0;
+       }
+
+.nav li {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+           }
+           
+ 
+body {
+  background-image: url('http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.button {
+		color: #A9A9A9;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 24px
+}
